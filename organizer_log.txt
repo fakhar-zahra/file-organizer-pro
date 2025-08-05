@@ -1,0 +1,59 @@
+2025-07-15 07:20:53,007 - Moved 1st year.pdf to Documents
+2025-07-15 07:20:53,012 - Moved Adeela Rubab.pdf to Documents
+2025-07-15 07:20:53,015 - Moved Assignment ENG201.docx to Documents
+2025-07-15 07:20:53,018 - Moved Bc230416887.cpp to Others
+2025-07-15 07:20:53,020 - Moved Bc230416887.docx to Documents
+2025-07-15 07:20:53,021 - Moved Bc230416887cs504.docx to Documents
+2025-07-15 07:20:53,023 - Moved BC230416887_Assignment2.cpp to Others
+2025-07-15 07:20:53,029 - Moved Beautiful lipstick \U0001f484\U0001f90d\U0001f484.jfif to Others
+2025-07-15 07:20:53,039 - Moved Book1.xlsx to Documents
+2025-07-15 07:20:53,042 - Moved Client assignment.docx to Documents
+2025-07-15 07:20:53,044 - Moved Client.docx to Documents
+2025-07-15 07:20:53,046 - Moved Cs301.cpp to Others
+2025-07-15 07:20:53,047 - Moved CS403.docx to Documents
+2025-07-15 07:20:53,049 - Moved CS403.pdf to Documents
+2025-07-15 07:20:53,051 - Moved cs504 hussnain.docx to Documents
+2025-07-15 07:20:53,052 - Moved desktop.ini to Others
+2025-07-15 07:20:53,053 - Moved Divisional Public School.docx to Documents
+2025-07-15 07:20:53,056 - Moved Doc2.docx to Documents
+2025-07-15 07:20:53,059 - Moved Fakhar Zahra.docx to Documents
+2025-07-15 07:20:53,060 - Moved mth104.docx to Documents
+2025-07-15 07:20:53,062 - Moved paper.docx to Documents
+2025-07-15 07:20:53,063 - Moved Riaz Application.pdf to Documents
+2025-07-15 07:20:53,065 - Moved Secretary Finance 3.pdf to Documents
+2025-07-15 07:20:53,067 - Moved Shopify.xlsx to Documents
+2025-07-15 07:20:53,068 - Moved Shopyfi.pdf to Documents
+2025-07-15 07:20:53,070 - Moved Virtual University of Pakistan.docx to Documents
+2025-07-15 07:20:53,071 - Moved VuID Bc230416887.docx to Documents
+2025-07-15 07:20:53,074 - Moved ~$230416887.docx to Documents
+2025-07-15 07:20:53,076 - Moved ~$230416887cs504.docx to Documents
+2025-07-15 07:20:53,078 - Moved ~$504 hussnain.docx to Documents
+2025-07-15 07:20:53,079 - Moved ~$Client.docx to Documents
+2025-07-15 07:20:53,080 - Moved ~$ient assignment.docx to Documents
+2025-07-15 07:20:53,084 - Moved ~$khar Zahra.docx to Documents
+2025-07-15 07:20:53,087 - Moved ~$paper.docx to Documents
+2025-07-15 07:20:53,088 - Moved ~$rtual University of Pakistan.docx to Documents
+2025-07-15 07:20:53,089 - Moved ~$Shopify.xlsx to Documents
+2025-07-15 07:20:53,093 - Moved ~$visional Public School.docx to Documents
+2025-07-15 07:20:53,094 - Moved ~WRL0794.tmp to Others
+2025-07-15 07:20:53,094 - Moved ~WRL2141.tmp to Others
+2025-07-15 07:44:51,581 - Moved boards name.txt to Documents
+2025-07-15 07:44:51,595 - Moved CapCut.lnk to Others
+2025-07-15 07:44:51,632 - Moved data-deletion.html.txt to Documents
+2025-07-15 07:44:51,633 - Moved desktop.ini to Others
+2025-07-15 07:44:51,644 - Moved gg.txt to Documents
+2025-07-15 07:44:51,669 - Moved Gith up commands.docx to Documents
+2025-07-15 07:44:51,672 - Moved Inpage 2018.lnk to Others
+2025-07-15 07:44:51,679 - Moved LMS.txt to Documents
+2025-07-15 07:44:51,682 - Moved Opera Browser.lnk to Others
+2025-07-15 07:44:51,685 - Moved Privacy.html.txt to Documents
+2025-07-15 07:44:51,691 - Moved Python Api.txt to Documents
+2025-07-15 07:44:51,704 - Moved Python.docx to Documents
+2025-07-15 07:44:51,707 - Moved Routine.xlsx to Documents
+2025-07-15 07:44:51,714 - Moved Seo.rar to Archives
+2025-07-15 07:44:51,716 - Moved Trae.lnk to Others
+2025-07-15 07:44:51,718 - Moved Visual Studio Code.lnk to Others
+2025-07-15 07:44:51,724 - Moved ~$Python.docx to Documents
+2025-07-15 07:44:51,728 - Moved ~$th up commands.docx to Documents
+2025-07-15 07:44:51,738 - Moved ~WRL0005.tmp to Others
+2025-07-15 07:48:34,902 - Moved Seo.rar to Archives
